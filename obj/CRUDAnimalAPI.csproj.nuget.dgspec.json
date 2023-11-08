@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\keviquoc\\OneDrive - Seguros Suramericana, S.A\\Escritorio\\Construcción de Software IV\\CRUDAnimalAPI\\CRUDAnimalAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\keviquoc\\OneDrive - Seguros Suramericana, S.A\\Escritorio\\Construcción de Software IV\\CRUDAnimalAPI\\CRUDAnimalAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\keviquoc\\OneDrive - Seguros Suramericana, S.A\\Escritorio\\Construcción de Software IV\\CRUDAnimalAPI\\CRUDAnimalAPI.csproj",
+        "projectName": "CRUDAnimalAPI",
+        "projectPath": "C:\\Users\\keviquoc\\OneDrive - Seguros Suramericana, S.A\\Escritorio\\Construcción de Software IV\\CRUDAnimalAPI\\CRUDAnimalAPI.csproj",
+        "packagesPath": "C:\\Users\\keviquoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\keviquoc\\OneDrive - Seguros Suramericana, S.A\\Escritorio\\Construcción de Software IV\\CRUDAnimalAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\keviquoc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
